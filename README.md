@@ -1,5 +1,7 @@
 # essentials
 
+This is the default README for the vuetify project. Check out the README in the parent folder for more information
+
 ## Project setup
 
 ```
