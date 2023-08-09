@@ -2,6 +2,8 @@
 
 This is the default README for the vuetify project. Check out the README in the parent folder for more information
 
+Note: Quick addition for test. Had to add the PPK file from my .SSH folder for Tortise-Git to be able to push code up to GitHub??
+
 ## Project setup
 
 ```
