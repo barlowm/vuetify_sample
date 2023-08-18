@@ -23,4 +23,11 @@ export default createVuetify({
       },
     },
   },
+  defaults: {
+    VBtn: { /* https://vuetifyjs.com/en/components/buttons/#global-configuration */
+      color: 'primary',
+      variant: 'outlined',
+      elevation: '4',
+    },
+  },  
 })
