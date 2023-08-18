@@ -6,6 +6,7 @@
       <v-btn @click="dialog = true">Open Dialog</v-btn>
   
       <v-dialog v-model="dialog" width="auto">
+        <!-- Using v-card component for headings, content, etc https://vuetifyjs.com/en/components/cards/ -->
         <v-card class="align-center">
           <v-card-text>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
